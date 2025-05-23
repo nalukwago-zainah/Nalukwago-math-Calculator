@@ -133,9 +133,9 @@ body {
   font-style: italic;
 }
 .signature {
-  margin-top: 20px;
-  text-align: center;
   font-size: 14px;
-  color: #555;
-  line-height: 1.5; /* Adds space between lines */
+  margin-top: 15px;
+  text-align: center;
+  color: navy; /* Changed from #555 to navy */
+  line-height: 1.4;
 }
