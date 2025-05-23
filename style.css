@@ -132,12 +132,4 @@ body {
   color: navy; /* Changed to navy blue */
   font-style: italic;
 }
-.signature {
-  text-align: right;    /* Aligns with calculator's right edge */
-  margin-top: 5px;      /* Reduced space above the text */
-  margin-right: 10px;   /* Matches calculator's button padding */
-  font-size: 12px;      /* Smaller text */
-  color: navy;          /* Navy blue */
-  font-style: italic;   /* Italicized */
-  line-height: 1.2;     /* Tight spacing between lines */
-}
+
