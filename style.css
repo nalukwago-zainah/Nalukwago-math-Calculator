@@ -132,3 +132,10 @@ body {
   color: navy; /* Changed to navy blue */
   font-style: italic;
 }
+.signature {
+  margin-top: 20px;
+  text-align: center;
+  font-size: 14px;
+  color: #555;
+  line-height: 1.5; /* Adds space between lines */
+}
